@@ -17,13 +17,14 @@ Hi there 👋 I'm Henry, and a game developer/programmer. Find out more about me
 |---:|----------|
 |   1|        C#|
 |   2|Javascript|
-|   3|      HTML|
-|   4|    Python|
-|   5|       CSS|
-|   6|       C++|
+|   3|       C++|
+|   4|      HTML|
+|   5|    Python|
+|   6|       CSS|
 
 ## Projects/Portfolio
 # All my games
+<img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io).
 
 Keep scrolling to view my best!
