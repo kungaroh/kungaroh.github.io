@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
 title: Henry Varley's Portfolio!
 description: Find all the games and projects that I have been apart of below!
