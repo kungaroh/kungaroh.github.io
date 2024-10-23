@@ -52,7 +52,7 @@ About: Solve puzzles by sorting bubbles so that they only contain their own colo
 
 Platform: Web
 
-Where to play: https://kungaroh.itch.io/bubble-sort-puzzle
+Where to play: [https://kungaroh.itch.io/bubble-sort-puzzle](https://kungaroh.itch.io/bubble-sort-puzzle){:target="blank"}
 
 Find the Source: [https://github.com/kungaroh/BubbleSort](https://github.com/kungaroh/BubbleSort){:target="blank"}
 
