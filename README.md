@@ -7,7 +7,7 @@
 </picture>
 
     
-## About Me
+# About Me
 Hi there 👋 I'm Henry, and a game developer/programmer. Find out more about me [here](/aboutme.html)
 
 ### Some Languages I've used
@@ -22,24 +22,70 @@ Hi there 👋 I'm Henry, and a game developer/programmer. Find out more about me
 |   5|    Python|
 |   6|       CSS|
 
-## Projects/Portfolio
-# All my games
+# Projects/Portfolio
+## All my games
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
+
 You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io).
 
-Keep scrolling to view my best!
+Keep scrolling to view my best games!
+
+<!-- ------------------- All my Games Ends ------------------- -->
  
-# Game 1: Fire Team
+## Game 1: Fire Team
 [<img alt="Fire Team Logo Image" src="https://img.itch.zone/aW1nLzE2ODM2MzM3LnBuZw==/original/h3v5Ym.png">](https://kungaroh.itch.io/fire-team)
 
-This is Fire Team, this is the game which I created throughout my 6 week internship at MMU!
+About: This is Fire Team, this is the game which I created throughout my 6 week internship at MMU! This game makes use of the Playdate's unique hardware to create a fun game that anyone can play! Turn the crank to pressurise your water and put out fires with Barry and Larry!
+
 Platform: Playdate
+
 Where to play: https://kungaroh.itch.io/fire-team
 
 
-Alternatively you can view the code for the projects in the github repository of the same name e.g. `bubble sort` game will be in the `bubble sort` repository
+<!-- ------------------- Fire Team Ends ------------------- -->
 
-## Contact Me
+
+## Game 2: Bubble Sort Puzzle
+[<img alt="Bubble Sort Puzzle Logo Image" src="https://img.itch.zone/aW1nLzE0MTcyNjM2LnBuZw==/315x250%23c/aZQtgY.png">](https://kungaroh.itch.io/bubble-sort-puzzle)
+
+About: Solve puzzles by sorting bubbles so that they only contain their own colour!
+
+Platform: Web
+
+Where to play: https://kungaroh.itch.io/bubble-sort-puzzle
+
+Find the Source: https://github.com/kungaroh/BubbleSort
+
+<!-- ------------------- Bubble Sort Ends ------------------- -->
+
+## Game 3: Mamma's Milkeria
+[<img alt="Mammas Milkeria Logo Image" src="https://img.itch.zone/aW1nLzE2MDc5NDI1LnBuZw==/original/mgQNEf.png" width="350">](https://kungaroh.itch.io/mammas-milkeria)
+
+About: Shake you controller to milk the cow in this idle milking dream!
+
+Platform: Windows *Requires a Nintendo Switch JoyCon or a PlayStation Dualshock 4/5 Controller to Play*
+
+Where to play: https://kungaroh.itch.io/mammas-milkeria
+
+<!-- ------------------- Mamma's Milkeria Ends ------------------- -->
+
+## Game 4: Musica Gems
+[<img alt="Musica Gems Logo Image" src="https://img.itch.zone/aW1hZ2UvMjY2NTEwMi8xNTg4MTIyNy5qcGc=/347x500/LTgKiz.jpg" width="350">](https://kungaroh.itch.io/musica-gems)
+
+About: Travel around the Land of Musica using Sound to solve puzzles and return the power of Magic Music back to the land of Musica!
+
+Platform: Windows
+
+Where to play: https://kungaroh.itch.io/musica-gems
+
+Find the source: https://github.com/kungaroh/MusicaGems
+
+
+<!-- ------------------- Muscia Gems Ends ------------------- -->
+
+
+
+# Contact Me
 If you have any feedback, or would like to get in touch for anything you can contact me by email
 📫 henryvarley14+contact@gmail.com
 
