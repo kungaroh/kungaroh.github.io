@@ -8,8 +8,7 @@
 
     
 ## About Me
-Hi there 👋 I'm Henry, and a game developer/programmer. 
-Here you can view some of the projects that I've worked on!
+Hi there 👋 I'm Henry, and a game developer/programmer. Find out more about me [here](/aboutme.html)
 
 ### Some Languages I've used
 (In no particular order)
@@ -24,8 +23,10 @@ Here you can view some of the projects that I've worked on!
 |   6|       C++|
 
 ## Projects/Portfolio
+# All my games
+You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io).
 
-[<img alt="an image showing the word 'portfolio' in large letters" src="pexels-photo-14936128.jpeg">](https://kungaroh.itch.io)
+Keep scrolling to view my best!
  
 # Game 1: Fire Team
 [<img alt="Fire Team Logo Image" src="https://img.itch.zone/aW1nLzE2ODM2MzM3LnBuZw==/original/h3v5Ym.png">](https://kungaroh.itch.io/fire-team)
