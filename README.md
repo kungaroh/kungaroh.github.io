@@ -76,7 +76,7 @@ About: Travel around the Land of Musica using Sound to solve puzzles and return 
 
 Platform: Windows
 
-Where to play: https://kungaroh.itch.io/musica-gems
+Where to play: [https://kungaroh.itch.io/musica-gems](https://kungaroh.itch.io/musica-gems){:target="blank"}
 
 Find the source: [https://github.com/kungaroh/MusicaGems](https://github.com/kungaroh/MusicaGems){:target="blank"}
 
