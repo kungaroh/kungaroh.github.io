@@ -26,7 +26,7 @@ Hi there 👋 I'm Henry, and a game developer/programmer.
 ## All my games
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 
-You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io).
+You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io/"target="_blank).
 
 Keep scrolling to view my best games!
 
@@ -39,7 +39,7 @@ About: This is Fire Team, this is the game which I created throughout my 6 week 
 
 Platform: Playdate
 
-Where to play: https://kungaroh.itch.io/fire-team
+Where to play: [https://kungaroh.itch.io/fire-team](https://kungaroh.itch.io/fire-team)
 
 
 <!-- ------------------- Fire Team Ends ------------------- -->
@@ -54,7 +54,7 @@ Platform: Web
 
 Where to play: https://kungaroh.itch.io/bubble-sort-puzzle
 
-Find the Source: https://github.com/kungaroh/BubbleSort
+Find the Source: [https://github.com/kungaroh/BubbleSort](https://github.com/kungaroh/BubbleSort)
 
 <!-- ------------------- Bubble Sort Ends ------------------- -->
 
@@ -65,7 +65,7 @@ About: Shake you controller to milk the cow in this idle milking dream!
 
 Platform: Windows *Requires a Nintendo Switch JoyCon or a PlayStation Dualshock 4/5 Controller to Play*
 
-Where to play: https://kungaroh.itch.io/mammas-milkeria
+Where to play: [https://kungaroh.itch.io/mammas-milkeria](https://kungaroh.itch.io/mammas-milkeria)
 
 <!-- ------------------- Mamma's Milkeria Ends ------------------- -->
 
@@ -78,7 +78,7 @@ Platform: Windows
 
 Where to play: https://kungaroh.itch.io/musica-gems
 
-Find the source: https://github.com/kungaroh/MusicaGems
+Find the source: [https://github.com/kungaroh/MusicaGems](https://github.com/kungaroh/MusicaGems)
 
 
 <!-- ------------------- Muscia Gems Ends ------------------- -->
