@@ -26,7 +26,7 @@ Hi there 👋 I'm Henry, and a game developer/programmer.
 ## All my games
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 
-You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io/"target="_blank).
+You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io/). <a href="https://kungaroh.itch.io/" target="_blank">my itch page</a>
 
 Keep scrolling to view my best games!
 
