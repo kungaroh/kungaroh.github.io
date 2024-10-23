@@ -8,7 +8,7 @@
 
     
 # About Me
-Hi there 👋 I'm Henry, and a game developer/programmer. Find out more about me [here](/aboutme.html)
+Hi there 👋 I'm Henry, and a game developer/programmer.
 
 ### Some Languages I've used
 (In no particular order)
