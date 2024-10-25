@@ -1,6 +1,7 @@
+---
+title: About Me
+---
 
-
-# About Me
 Hi there! I am a third year studying at Manchester Metropolitan University!
 Throughout my studies I have worked in many teams, including multidisciplinary teams so I can clearly communicate with team members including those that don't do the same work as myself!
 
