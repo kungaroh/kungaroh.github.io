@@ -9,18 +9,8 @@
     
 # About Me
 Hi there 👋 I'm Henry, and a game developer/programmer.
+Learn more about me [here](/aboutme.html)
 
-### Some Languages I've used
-(In no particular order)
-
-|Item|Languange |
-|---:|----------|
-|   1|        C#|
-|   2|Javascript|
-|   3|       C++|
-|   4|      HTML|
-|   5|    Python|
-|   6|       CSS|
 
 # Projects/Portfolio
 ## All my games
