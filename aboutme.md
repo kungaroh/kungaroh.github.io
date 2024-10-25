@@ -2,6 +2,15 @@
 title: About Me
 ---
 
+<style>
+  .custom-divider {
+    border: none;
+    border-top: 1px dashed #ccc; /* Change to dashed or dotted */
+    margin: 20px 0; /* Adjust spacing */
+  }
+</style>
+
+
 Hi there! I am a third year studying at Manchester Metropolitan University!
 Throughout my studies I have worked in many teams, including multidisciplinary teams so I can clearly communicate with team members including those that don't do the same work as myself!
 
@@ -35,6 +44,8 @@ Every week I would have a meeting with my managers to demonstrate progress on th
 - Collaboration
 - Problem solving
 
+<hr class="custom-divider">
+
 ## Programming Languages
 
 Programming languages I have used are: 
@@ -54,6 +65,8 @@ I have primarily used Unity throughout my studies and for any game jams I have b
 I have used Unreal Engine in some personal projects which I have completed to gain familiarity with the engine.
 
 I have also created a game using the Playdate SDK, which doesn't have an engine! <!-- add fire team link -->
+
+<hr class="custom-divider">
 
 ## Source Control
 
