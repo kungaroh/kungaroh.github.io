@@ -58,7 +58,7 @@ During this unit I won the following awards:
 the Best Overall Game, for Mamma's Milkeria <!-- link it -->
 and the Highly Commended award for Musica Gems  <!-- link it -->
 
-I have took part and submitted a game<!-- link bacteria busters--> for the Ludum Dare 56 game jam! This is a personal achievement as it is the 72 hour/ non-degree related game jam I have submitted a game for
+I have took part and submitted a game<!-- link bacteria busters--> for the Ludum Dare 56 game jam! This is a personal achievement as it is the first 72 hour/ non-degree related game jam I have submitted a game for
 
 
 
