@@ -9,7 +9,7 @@
     
 # About Me
 Hi there 👋 I'm Henry, and a game developer/programmer.
-Learn more about me [here](/aboutme.html)
+Learn more about me [here](/aboutme.md)
 
 
 # Projects/Portfolio
