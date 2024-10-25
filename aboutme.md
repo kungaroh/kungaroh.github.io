@@ -13,11 +13,25 @@ As you can see from my game portfolio, I love making all types of games! From fi
 
 # Experience
 
+## Game Developer Playdate
 
+Throughout this role, I collaborated with my managers to create a game idea for the Playdate Console. This involved pitching an idea, and then brainstorming game mechanic ideas to make a fun and intuitive game!
+Every week I would have a meeting with my managers to demonstrate progress on the game and to discuss the features and refinements that would be completed in the following week.
 
 # Skills
 
-## Languages
+## General Skills
+
+- Project Managerment
+- Communication
+- Time Keeping
+- Task prioritisation
+- Creativity
+- Adaptability
+- Collaboration
+- Problem solving
+
+## Programming Languages
 
 Programming languages I have used are: C#, C++, Lua, Java, JavaScript, HTML, CSS, Python
 
