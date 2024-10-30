@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Fire Team
+permalink: /fireteam/
 ---
 
 <style>
