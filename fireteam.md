@@ -1,3 +1,7 @@
+---
+title: Fire Team
+---
+
 <style>
   .game-page-container {
     display: flex;
