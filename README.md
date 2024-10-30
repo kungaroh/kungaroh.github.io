@@ -16,11 +16,55 @@ Learn more about me [here](/aboutme.md)
 ## All my games
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 
-You can find all the games I have worked on, on [my itch page](https://kungaroh.itch.io/){:target="blank"}.
+You can play every game I have made, on [my itch page](https://kungaroh.itch.io/){:target="blank"}.
 
-Keep scrolling to view my best games!
+Alternatively learn more about each game below!
 
 <!-- ------------------- All my Games Ends ------------------- -->
+
+<style>
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  .game-card {
+    background-color: #f3f3f3;
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+   .game-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  .game-card:hover {
+    transform: scale(1.05);
+  }
+</style>
+
+<div class="portfolio-grid">
+  <div class="fireTeam-card">
+    <a href="/fireteam.md">
+      <img src="https://img.itch.zone/aW1nLzE2ODM2MzM3LnBuZw==/original/h3v5Ym.png" alt="Fire Team Thumbnail">
+      <p>Fire Team</p>
+    </a>
+  </div>
+  <div class="BubbleSort-card">
+    <a href="/bubblesort.md">
+      <img src="https://img.itch.zone/aW1nLzE0MTcyNjM2LnBuZw==/315x250%23c/aZQtgY.png" alt="Bubble Sort Thumbnail">
+      <p>Bubble Sort Puzzle</p>
+    </a>
+  </div>
+  <!-- Add more games similarly -->
+</div>
+
+
+
+
+
  
 ## Game 1: Fire Team
 [<img alt="Fire Team Logo Image" src="https://img.itch.zone/aW1nLzE2ODM2MzM3LnBuZw==/original/h3v5Ym.png">](https://kungaroh.itch.io/fire-team){:target="blank"}
