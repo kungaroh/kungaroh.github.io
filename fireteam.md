@@ -27,7 +27,6 @@ permalink: /fireteam/
 </style>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVx7q3mQ2nA?si=wR-avY-xtCi0MwZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p> Here you can watch the YouTube devlog series outlining the process of creating Fire Team!</p>
 <div class="game-page-container">
   
   <!-- Game description and experience -->
