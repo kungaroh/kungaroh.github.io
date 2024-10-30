@@ -71,7 +71,7 @@ Alternatively learn more about each game below!
     <a href="/bubblesort.md">
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
       <p><strong>Bubble Sort Puzzle</strong></p>
-     <p></p>
+     <p>Sort the bubbles into the correct tube to win!</p>
     </a>
   </div>
   <div class="game-card">
