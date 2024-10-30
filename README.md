@@ -61,28 +61,28 @@ Alternatively learn more about each game below!
 
 <div class="portfolio-grid">
   <div class="game-card">
-    <a href="fireteam.md">
+    <a href="fireteam">
       <img src="/portfolio icons/fire team icon.png" alt="Fire Team Thumbnail">
       <p><strong>Fire Team</strong></p>
      <p>Use the Playdate crank to pump your water and extinguish fires!</p>
     </a>
   </div>
   <div class="game-card">
-    <a href="/bubblesort.md">
+    <a href="/bubblesort">
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
       <p><strong>Bubble Sort Puzzle</strong></p>
      <p>Sort the bubbles into the correct tube to win!</p>
     </a>
   </div>
   <div class="game-card">
-     <a href="/MM.md">
+     <a href="/MM">
        <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
        <p><strong>Mamma's Milkeria</strong></p>
       <p>Create and grow your milk empire!</p>
      </a>
    </div>
   <div class="game-card">
-     <a href="/musicaGems.md">
+     <a href="/musicaGems">
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
        <p><strong>Musica Gems</strong></p>
       <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
