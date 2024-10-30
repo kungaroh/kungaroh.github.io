@@ -33,6 +33,7 @@ permalink: /fireteam/
   <!-- Game description and experience -->
   <div class="game-description">
     <h2>Fire Team</h2>
+    <p> <strong>Where to play:</strong></p> [https://kungaroh.itch.io/fire-team](https://kungaroh.itch.io/fire-team){:target="blank"}
     <p><strong>About the Game:</strong><br> Fire Team is a game which is played on the Playdate Console using it's unique hardware (the crank) to pump up the water and unleash it on the ablaze building!</p>
     <p><strong>My Experience:</strong><br> Throughout my time creating Fire Team, I learned the programming language Lua! This is a small and light language which is perfect to perform tasks with minimum power, which is ideal for the Playdate!
       <br><br> I also learned how to quickly become familiar with a new SDK whilst prototyping a game. This skill will benefit me going forward with learning new programming languages and new game engines alike as I have learned how to navigate and search for the necessary functions that I may need to use!
