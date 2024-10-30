@@ -47,34 +47,41 @@ Alternatively learn more about each game below!
      color: #555;
      margin: 8px 0 0; /* Adjusts spacing */
    }
+   .game-card a {
+     color: inherit; /* Inherits color from parent, making it the same as normal text */
+     text-decoration: none; /* Removes the underline */
+   }
+   .game-card a:hover {
+     color: #555; /* Optional: Different color on hover */
+   }
   .game-card:hover {
     transform: scale(1.05);
   }
 </style>
 
 <div class="portfolio-grid">
-  <div class="fireTeam-card">
+  <div class="game-card">
     <a href="fireteam.md">
       <img src="/portfolio icons/fire team icon.png" alt="Fire Team Thumbnail">
       <p><strong>Fire Team</strong></p>
      <p>Use the Playdate crank to pump your water and extinguish fires!</p>
     </a>
   </div>
-  <div class="BubbleSort-card">
+  <div class="game-card">
     <a href="/bubblesort.md">
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
       <p><strong>Bubble Sort Puzzle</strong></p>
      <p></p>
     </a>
   </div>
-  <div class="Mammas-milkeria-card">
+  <div class="game-card">
      <a href="/MM.md">
        <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
        <p><strong>Mamma's Milkeria</strong></p>
       <p>Create and grow your milk empire!</p>
      </a>
    </div>
-  <div class="Musica-Gems-card">
+  <div class="game-card">
      <a href="/musicaGems.md">
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
        <p><strong>Musica Gems</strong></p>
