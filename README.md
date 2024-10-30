@@ -49,8 +49,8 @@ Alternatively learn more about each game below!
 
 <div class="portfolio-grid">
   <div class="fireTeam-card">
-    <a href="/portfolio icons/fire team icon.png">
-      <img src="" alt="Fire Team Thumbnail">
+    <a href="fireteam.md">
+      <img src="/portfolio icons/fire team icon.png" alt="Fire Team Thumbnail">
       <p>Fire Team</p>
     </a>
   </div>
