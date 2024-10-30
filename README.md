@@ -35,13 +35,18 @@ Alternatively learn more about each game below!
     border-radius: 8px;
     transition: transform 0.2s;
     border: 2px solid white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   }
    .game-card img {
     width: 100%;
     height: auto;
     border-radius: 5px;
   }
+  .game-card p {
+     font-size: 0.9em; /* Smaller font for description */
+     color: #555;
+     margin: 8px 0 0; /* Adjusts spacing */
+   }
   .game-card:hover {
     transform: scale(1.05);
   }
@@ -51,25 +56,29 @@ Alternatively learn more about each game below!
   <div class="fireTeam-card">
     <a href="fireteam.md">
       <img src="/portfolio icons/fire team icon.png" alt="Fire Team Thumbnail">
-      <p>Fire Team</p>
+      <p><strong>Fire Team</strong></p>
+     <p>Use the Playdate crank to pump your water and extinguish fires!</p>
     </a>
   </div>
   <div class="BubbleSort-card">
     <a href="/bubblesort.md">
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
-      <p>Bubble Sort Puzzle</p>
+      <p><strong>Bubble Sort Puzzle</strong></p>
+     <p></p>
     </a>
   </div>
   <div class="Mammas-milkeria-card">
      <a href="/MM.md">
        <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
-       <p>Mamma's Milkeria</p>
+       <p><strong>Mamma's Milkeria</strong></p>
+      <p>Create and grow your milk empire!</p>
      </a>
    </div>
   <div class="Musica-Gems-card">
      <a href="/musicaGems.md">
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
-       <p>Musica Gems</p>
+       <p><strong>Musica Gems</strong></p>
+      <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
      </a>
    </div>
   <!-- Add more games similarly -->
