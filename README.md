@@ -34,6 +34,8 @@ Alternatively learn more about each game below!
     text-align: center;
     border-radius: 8px;
     transition: transform 0.2s;
+    border: 2px solid white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
    .game-card img {
     width: 100%;
@@ -47,17 +49,29 @@ Alternatively learn more about each game below!
 
 <div class="portfolio-grid">
   <div class="fireTeam-card">
-    <a href="/fireteam.md">
-      <img src="https://img.itch.zone/aW1nLzE2ODM2MzM3LnBuZw==/original/h3v5Ym.png" alt="Fire Team Thumbnail">
+    <a href="/portfolio icons/fire team icon.png">
+      <img src="" alt="Fire Team Thumbnail">
       <p>Fire Team</p>
     </a>
   </div>
   <div class="BubbleSort-card">
     <a href="/bubblesort.md">
-      <img src="https://img.itch.zone/aW1nLzE0MTcyNjM2LnBuZw==/315x250%23c/aZQtgY.png" alt="Bubble Sort Thumbnail">
+      <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
       <p>Bubble Sort Puzzle</p>
     </a>
   </div>
+  <div class="Mammas-milkeria-card">
+     <a href="/MM.md">
+       <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
+       <p>Mamma's Milkeria</p>
+     </a>
+   </div>
+  <div class="Musica-Gems-card">
+     <a href="/musicaGems.md">
+       <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
+       <p>Musica Gems</p>
+     </a>
+   </div>
   <!-- Add more games similarly -->
 </div>
 
