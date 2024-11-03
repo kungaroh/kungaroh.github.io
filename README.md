@@ -37,7 +37,7 @@ Alternatively learn more about each game below!
     border: 2px solid white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   }
-   .playable-badge {
+     .playable-badge {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -47,6 +47,7 @@ Alternatively learn more about each game below!
     border-radius: 4px;
     font-size: 0.8em;
     font-weight: bold;
+    z-index: 1;
   }
    .game-card img {
     width: 100%;
