@@ -29,6 +29,7 @@ Alternatively learn more about each game below!
     gap: 20px;
   }
   .game-card {
+    position: relative;
     background-color: #f3f3f3;
     padding: 10px;
     text-align: center;
@@ -37,7 +38,7 @@ Alternatively learn more about each game below!
     border: 2px solid white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   }
-     .playable-badge {
+  .game-card .playable-badge {
     position: absolute;
     top: 10px;
     right: 10px;
