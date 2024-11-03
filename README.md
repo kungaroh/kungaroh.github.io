@@ -80,10 +80,10 @@ Alternatively learn more about each game below!
     </a>
   </div>
   <div class="game-card">
+   <div class="playable-badge">Playable</div>
     <a href="/bubblesort">
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
-     <div class="playable-badge">Playable</div>
-      <p><strong>Bubble Sort Puzzle</strong></p>
+        <p><strong>Bubble Sort Puzzle</strong></p>
      <p>Sort the bubbles into the correct tube to win!</p>
     </a>
   </div>
