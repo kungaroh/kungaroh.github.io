@@ -6,6 +6,7 @@ minima:
 markdown_extensions:
   - attr_list
 title: Henry Varley's Portfolio!
-description: Contact me at henryvarley14+contact@gmail.com
+description: Welcome to the portfolio page showcasing Henry Varley's games!
 header_pages:
 - aboutme.md
+footer_message: "Contact me at henryvarley14+contact@gmail.com"
