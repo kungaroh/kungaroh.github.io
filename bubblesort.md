@@ -44,7 +44,7 @@ permalink: /bubblesort/
       <br>I initially made it with a <i> lot </i> of if-statements for all the checks in the game, such as if a bubble is held, if it is the same colour as the bubble clicked on, if the tube is full etc. 
       Due to making it this way, it resulted in having some logic errors and being difficult to come back and make changes to the code. This is the first time I <strong>refactored</strong> code into a <strong>state machine</strong>.
       By refactoring the code to be a state machine, the number of checks that needed to happen were reduced, the aforementioned logic errors no longer exist and the code is easily readable and could potentially be expanded on!
-      <br><strong>Engine Tools? </strong>
+      <br><strong>Editor Tools? </strong>
         <br> Whilst making Bubble Sort Puzzle, I quickly became tired of making all the bubbles the child of the tube they start in, and wanted a quicker way to make levels. 
       So I created an <a href="https://github.com/kungaroh/BubbleSort/blob/7dda536be97948844bf164d098745d07a0f3ec2a/Assets/Editor/AutoChild.cs" target="_blank">editor script</a>, where once I have arranged all the bubbles in the scene, I could go to <code> Tools > Auto Child</code> and all the bubbles would be set as children of the correct tube!
     </p>
