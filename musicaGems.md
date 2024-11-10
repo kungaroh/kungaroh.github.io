@@ -38,6 +38,9 @@ permalink: /musicagems/
     <p><strong>About the Game:</strong><br>Musica Gems is a puzzle game where you use sound to interact with the world around you and decipher puzzles!</p>
     <h3>My Experience:</h3>
       <p>
+        <strong> Achievements </strong>
+        Musica Gems won the Highly Commended award within the unit, competing against both Game Development BSc, MSc and Game Design BSc
+        <br> Musica Gems was also featured at Upgrade, MMUs showcase of the best student work completed in the academic year.
       <br><strong>Why?</strong> 
       <br>I created Musica Gems as apart of the Rapid Game Prototyping unit at university. This game jam style unit challenged me to make a game prototype in 7 days, following the theme <q>The Enchanted Instrument</q>.
       <br><strong>What did I learn?</strong>
