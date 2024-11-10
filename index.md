@@ -105,6 +105,20 @@ Alternatively learn more about each game below!
       <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
      </a>
    </div>
+  <div class="game-card">
+     <a href="/stcbi">
+       <img src="/portfolio icons/stcbi icon.png" alt="The Scratch That Can't Be Itched logo">
+       <p><strong>The Scratch That Can't Be Itched</strong></p>
+      <p>This game is currently in developement!</p>
+     </a>
+   </div>
+ <div class="game-card">
+     <a href="/gameengine">
+       <img src="/portfolio icons/ icon.png" alt="">
+       <p><strong>Ionix Game Engine</strong></p>
+      <p>A currently in developement game engine</p>
+     </a>
+   </div>
   <!-- Add more games similarly -->
 </div>
 
