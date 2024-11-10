@@ -54,8 +54,8 @@ permalink: /MM/
   <!-- Game images -->
   <div class="game-images">
    <img src="/MM Images/MM Logo.png" alt="Mamma's Milkeria Logo">
-    <img src="/MM Images/friesian" alt="an image of mammas milkeria game">
-    <img src="/MM Images/vanilla cow" alt="an image of mammas milkeria game having unlocked the first prestige">
+    <img src="/MM Images/friesian cow.png" alt="an image of mammas milkeria game">
+    <img src="/MM Images/vanilla cow.png" alt="an image of mammas milkeria game having unlocked the first prestige">
      
   </div>
 </div>
