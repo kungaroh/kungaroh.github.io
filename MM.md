@@ -29,7 +29,7 @@ permalink: /MM/
   <!-- Game description and experience -->
   <div class="game-description">
     <h2>Mamma's Milkeria</h2>
-    <p> <strong>Where to play:</strong> <a href="https://kungaroh.itch.io/bubble-sort-puzzle" target="_blank">On my Itch page</a> </p> 
+    <p> <strong>Where to play:</strong> <a href="https://kungaroh.itch.io/mammas-milkeria" target="_blank">On my Itch page</a> </p> 
    <!-- <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank">On my GitHub</a> </p> -->
     <p><strong>About the Game:</strong><br>Create and grow your cow milking empire in this idle game, that keeps you active!
     <br>Mamma's Milkeria is an idle game, where you have to shake your controller up and down to milk your cow, to sell the milk to upgrade and by more cows! </p>
@@ -42,8 +42,8 @@ permalink: /MM/
       <br>Whilst creating this game I learned about <strong>Interacting with controllers in Unity</strong>, <strong>finding and adding external libraries to Unity</strong>, <strong> cirle maths </strong>. 
         <br>I used Circle Maths for spawning the cow teats around the udder ensuring they only spawn on the underside. 
         <br>Due to Unity not appearing to support Nintendo Switch JoyCon acceleration, I had to find a library which allowed me to get this data as I 
-        wanted the unique twist of this idle game to be doing the motion of milking the cow (<a href="https://www.youtube.com/watch?v=m9bWVJrfCkY" target="_blank">inspired by the 1-2 Switch milk gmae).
-        I found <a href="https://github.com/JibbSmart/JoyShockLibrary" target="_blank">JibbSmart's JoyShockLibrary> which is a library to allow using all the features of DualShock4, DualSense, and Switch Joy-Cons to be usable natively in PC games.
+        wanted the unique twist of this idle game to be doing the motion of milking the cow (<a href="https://www.youtube.com/watch?v=m9bWVJrfCkY" target="_blank">inspired by the 1-2 Switch milk game</a>).
+        I found <a href="https://github.com/JibbSmart/JoyShockLibrary" target="_blank">JibbSmart's JoyShockLibrary</a> which is a library to allow using all the features of DualShock4, DualSense, and Switch Joy-Cons to be usable natively in PC games.
         This library was perfect for me, as it meant I simply had to interact with the library to get the necessary data of the controller which was a lot easier than finding the library itself!
       <br> This is also the first game that I've use <strong>Unit's particle system</strong> which I used for the milk coming out of the udders, this was very simple application and was just a case of creating the shape and having the partlices shoot straight out.
       <br><strong> Improve the game?</strong>
