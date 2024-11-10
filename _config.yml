@@ -10,4 +10,6 @@ description: Welcome to the portfolio page showcasing Henry Varley's games!
 header_pages:
 - aboutme.md
 footer_message: "All above games are made by Henry Varley, however most art is not, and should be accredited on the itch.io page for the relevant game"
-author_email: "henryvarley14+contact@gmail.com"
+author:
+  name: "Henry Varley"
+  email: "henryvarley14+contact@gmail.com"
