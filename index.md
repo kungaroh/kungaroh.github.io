@@ -137,7 +137,7 @@ Platform: Playdate
 Where to play: [https://kungaroh.itch.io/fire-team](https://kungaroh.itch.io/fire-team){:target="blank"}
 
 
-<!-- ------------------- Fire Team Ends ------------------- -->
+<!-- ------------------- Fire Team Ends ------------------- 
 
 
 ## Game 2: Bubble Sort Puzzle
@@ -151,7 +151,7 @@ Where to play: [https://kungaroh.itch.io/bubble-sort-puzzle](https://kungaroh.it
 
 Find the Source: [https://github.com/kungaroh/BubbleSort](https://github.com/kungaroh/BubbleSort){:target="blank"}
 
-<!-- ------------------- Bubble Sort Ends ------------------- -->
+<!-- ------------------- Bubble Sort Ends ------------------- 
 
 ## Game 3: Mamma's Milkeria
 [<img alt="Mammas Milkeria Logo Image" src="https://img.itch.zone/aW1nLzE2MDc5NDI1LnBuZw==/original/mgQNEf.png" width="350">](https://kungaroh.itch.io/mammas-milkeria){:target="blank"}
@@ -162,7 +162,7 @@ Platform: Windows *Requires a Nintendo Switch JoyCon or a PlayStation Dualshock 
 
 Where to play: [https://kungaroh.itch.io/mammas-milkeria](https://kungaroh.itch.io/mammas-milkeria){:target="blank"}
 
-<!-- ------------------- Mamma's Milkeria Ends ------------------- -->
+<!-- ------------------- Mamma's Milkeria Ends -------------------
 
 ## Game 4: Musica Gems
 [<img alt="Musica Gems Logo Image" src="https://img.itch.zone/aW1hZ2UvMjY2NTEwMi8xNTg4MTIyNy5qcGc=/347x500/LTgKiz.jpg" width="350">](https://kungaroh.itch.io/musica-gems){:target="blank"}
@@ -177,7 +177,6 @@ Find the source: [https://github.com/kungaroh/MusicaGems](https://github.com/kun
 
 
 <!-- ------------------- Muscia Gems Ends ------------------- -->
--->
 
 
 # Contact Me
