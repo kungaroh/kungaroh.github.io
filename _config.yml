@@ -7,3 +7,9 @@ markdown_extensions:
   - attr_list
 title: Henry Varley's Portfolio!
 description: Contact me at henryvarley14+contact@gmail.com
+header_pages:
+- aboutme
+- fireteam
+- bubblesort
+- MM
+- musicagems
