@@ -107,14 +107,14 @@ Alternatively learn more about each game below!
    </div>
   <div class="game-card">
      <a href="/stcbi">
-       <img src="/portfolio icons/stcbi icon.png" alt="The Scratch That Can't Be Itched logo">
+       <img src="/portfolio icons/stcbi logo.png" alt="The Scratch That Can't Be Itched Thumbnail">
        <p><strong>The Scratch That Can't Be Itched</strong></p>
       <p>This game is currently in developement!</p>
      </a>
    </div>
  <div class="game-card">
      <a href="/gameengine">
-       <img src="/portfolio icons/ icon.png" alt="">
+       <img src="/portfolio icons/ionix logo.png" alt="Ionix Game Engine Placeholder Thumbnail">
        <p><strong>Ionix Game Engine</strong></p>
       <p>A currently in developement game engine</p>
      </a>
