@@ -25,7 +25,8 @@ permalink: /MM/
     border-radius: 5px;
   }
 </style>
-  
+
+<div class="game-page-container">
   <!-- Game description and experience -->
   <div class="game-description">
     <h2>Mamma's Milkeria</h2>
