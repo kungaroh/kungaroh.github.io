@@ -96,7 +96,7 @@ Alternatively learn more about each game below!
      </a>
    </div>
   <div class="game-card">
-     <a href="/musicaGems">
+     <a href="/musicagems">
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
        <p><strong>Musica Gems</strong></p>
       <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
