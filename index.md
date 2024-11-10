@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Henry Varley's Portfolio!"
+---
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
