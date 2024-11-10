@@ -35,7 +35,7 @@ permalink: /bubblesort/
     <p> <strong>Where to play:</strong> <br> Right Here! Alternatively, <a href="https://kungaroh.itch.io/bubble-sort-puzzle" target="_blank">On my Itch page</a> </p> 
     <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank">On my GitHub</a> </p>
     <p><strong>About the Game:</strong><br>Bubble Sort Puzzle is a simple puzzle game where you sort the bubbles into tubes so that each tube only contains a single colour bubble!</p>
-    <h3>My Experience:<h3>
+    <h3>My Experience:</h3>
       <p>
       <br><strong>Why?</strong> 
       <br>I first created Bubble Sort Puzzle to further improve my Unity and C# skills from what I had learned in my first year at University. 
