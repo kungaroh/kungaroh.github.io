@@ -49,7 +49,8 @@ permalink: /stcbi/
 
   <!-- Game images -->
   <div class="game-images">
-   <!-- <img src="/FireTeam Images/FireTeam Logo.png" alt="Fire Team Logo">
+    <img src="/stcbi images/stcbi logo.png" alt="Scratch That Can't Be Itched Logo">
+    <!--
     <img src="/FireTeam Images/ladders and spray.gif" alt="A gif where the ladder increase and the hose is sprayed">
     <img src="/FireTeam Images/playing on playdate.jpeg" alt="An image of the game on a playdate">
     <img src="/FireTeam Images/medium building.png" alt="An image of a large building in the game on fire">
