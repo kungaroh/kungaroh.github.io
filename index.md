@@ -124,7 +124,7 @@ Alternatively learn more about each game below!
 
 
 
-
+<!--
 
  
 ## Game 1: Fire Team
@@ -177,7 +177,7 @@ Find the source: [https://github.com/kungaroh/MusicaGems](https://github.com/kun
 
 
 <!-- ------------------- Muscia Gems Ends ------------------- -->
-
+-->
 
 
 # Contact Me
