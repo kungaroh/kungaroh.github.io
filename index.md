@@ -53,6 +53,18 @@ Alternatively learn more about each game below!
     font-weight: bold;
     z-index: 1;
   }
+ .game-card .download-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: blue;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: bold;
+    z-index: 1;
+ }
    .game-card img {
     width: 100%;
     height: auto;
@@ -77,6 +89,7 @@ Alternatively learn more about each game below!
 
 <div class="portfolio-grid">
   <div class="game-card">
+   <div class="download-badge">Download</div>
     <a href="fireteam">
       <img src="/portfolio icons/fire team icon.png" alt="Fire Team Thumbnail">
       <p><strong>Fire Team</strong></p>
@@ -92,6 +105,7 @@ Alternatively learn more about each game below!
     </a>
   </div>
   <div class="game-card">
+   <div class="download-badge">Download</div>
      <a href="/MM">
        <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
        <p><strong>Mamma's Milkeria</strong></p>
@@ -100,6 +114,7 @@ Alternatively learn more about each game below!
    </div>
   <div class="game-card">
      <a href="/musicagems">
+      <div class="download-badge">Download</div>
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
        <p><strong>Musica Gems</strong></p>
       <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
