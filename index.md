@@ -133,7 +133,10 @@ Alternatively learn more about each game below!
   <div class="game-card">
      <a href="/musicagems">
       <div class="download-badge">Download</div>
+      <div class="image-container">
+       <div class="source-badge">Source</div>
        <img src="/portfolio icons/musicagems icon.png" alt="Musica Gems Thumbnail">
+      </div>
        <p><strong>Musica Gems</strong></p>
       <p>Solve Sound Based Puzzles to return the magic music back to Musica</p>
      </a>
