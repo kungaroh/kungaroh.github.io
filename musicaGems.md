@@ -24,17 +24,32 @@ permalink: /musicagems/
     width: 100%;
     border-radius: 5px;
   }
+  .github-button {
+  display: inline-block;
+  background-color: #333; /* GitHub color */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.github-button:hover {
+  background-color: #444;
+}
 </style>
 
-<iframe frameborder="0" src="https://itch.io/embed/2665102?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/musica-gems">Musica Gems by Kungaroh | Henry</a></iframe>
+
 
 <div class="game-page-container">
   
   <!-- Game description and experience -->
   <div class="game-description">
     <h2>Musica Gems</h2>
-    <p> <strong>Where to play:</strong> <br> <a href="https://kungaroh.itch.io/bubble-sort-puzzle" target="_blank">On my Itch page</a> </p> 
-    <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/MusicaGems" target="_blank">On my GitHub</a> </p>
+    <p> <strong>Where to play:</strong> <br> <iframe frameborder="0" src="https://itch.io/embed/2665102?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/musica-gems">Musica Gems by Kungaroh | Henry</a></iframe> </p> 
+    <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/MusicaGems" target="_blank" class="github-button">View Source on GitHub</a>
+</p>
     <p><strong>About the Game:</strong><br>Musica Gems is a puzzle game where you use sound to interact with the world around you and decipher puzzles!</p>
     <h3>My Experience:</h3>
       <p>
