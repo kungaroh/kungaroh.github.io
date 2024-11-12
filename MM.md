@@ -47,7 +47,7 @@ permalink: /MM/
       <br><strong>Why?</strong> 
       <br>I created Mamma's Milkeria as apart of the final week of the "Rapid Game Prototyping" unit at university. This game jam style unit tasked me to create a game prototypes over the course of 7 days, following the Theme of `The Dream Machine`.
         This game follows this theme because it is the story of Mamma, who's dream was to have a cow farm, and milk them for the best possible milk. This farm quickly became a well oiled machine where Mamma heads the milk empire!
-      <br><strong>What did I learn?</strong>
+      <br><br><strong>What did I learn?</strong>
       <br>Whilst creating this game I learned about <strong>Interacting with controllers in Unity</strong>, <strong>finding and adding external libraries to Unity</strong>, <strong> cirle maths </strong>. 
         <br>I used Circle Maths for spawning the cow teats around the udder ensuring they only spawn on the underside. 
         <br>Due to Unity not appearing to support Nintendo Switch JoyCon acceleration, I had to find a library which allowed me to get this data as I 
@@ -55,7 +55,7 @@ permalink: /MM/
         I found <a href="https://github.com/JibbSmart/JoyShockLibrary" target="_blank">JibbSmart's JoyShockLibrary</a> which is a library to allow using all the features of DualShock4, DualSense, and Switch Joy-Cons to be usable natively in PC games.
         This library was perfect for me, as it meant I simply had to interact with the library to get the necessary data of the controller which was a lot easier than finding the library itself!
       <br> This is also the first game that I've use <strong>Unit's particle system</strong> which I used for the milk coming out of the udders, this was very simple application and was just a case of creating the shape and having the partlices shoot straight out.
-      <br><strong> Improve the game?</strong>
+      <br><br><strong> Improve the game?</strong>
       <br> If I were to improve this prototype to be a full game, I believe it wouldn't take much work, although the menu could look better, the milk particles improved to look more like milk, the controls could be improved so you have to press the side buttons whilst doing the milking motion, although this would remove compatibility with PlayStation controllers!
     </p>
   </div>
