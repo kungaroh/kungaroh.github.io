@@ -59,10 +59,10 @@ permalink: /musicagems/
       <br><strong>Why?</strong> 
       <br>I created Musica Gems as apart of the Rapid Game Prototyping unit at university. This game jam style unit challenged me to make a game prototype in 7 days, following the theme <q>The Enchanted Instrument</q>.
       <br><strong>What did I learn?</strong>
-      <br>Whilst creating this game I learned about <strong>Unity animations</strong>, <strong> 3D sound in Unity </strong> < strong>coroutines</strong> and creating interesting menus such as a weapon wheel.
+      <br>Whilst creating this game I learned about <strong>Unity animations</strong>, <strong> 3D sound in Unity </strong> <strong>coroutines</strong> and creating interesting menus such as a weapon wheel.
       <br>I used Unity's built in animation system to create an animation for a chest opening, once a puzzle is complete, and also for a bridge fading in and out of existing once the correct tune is played. 
       The bridge fading in and out was interesting, as I had to check the alpha of the material on the bridge so I could toggle on/off the collider for the bridge to ensure it would only play whilst the tune is playing!
-      <br> Using Unit's sound system was very simple as all I had to do was add the sound I wanted to the relevant game object, set it to be spatial, and then I had to call when I wanted it to play, such as when interacting with one of the big gems!
+      <br> Using Unity's sound system was very simple as all I had to do was add the sound I wanted to the relevant game object, set it to be spatial, and then I had to call when I wanted it to play, such as when interacting with one of the big gems!
       <br> I used coroutines in this project when I was creating the chest puzzle, where you have to bonk the big gems in a specific order to unlock the chest. I used the coroutine when the gems were played in the wrong order, as I would play a bad sound
         telling the player it was wrong, wait for 1 second so the player cannot interact with the gems, and also so the bad sound can play without being interupted.
       <br><strong>Improvements?</strong>
