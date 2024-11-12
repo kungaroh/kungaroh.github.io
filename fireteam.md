@@ -37,7 +37,6 @@ permalink: /fireteam/
   
   <!-- Game description and experience -->
   <div class="game-description">
-    <h2>Fire Team</h2>
     <p> <strong>Where to play:</strong> 
       <br>
       <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe>
