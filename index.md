@@ -55,8 +55,8 @@ Alternatively learn more about each game below!
   }
  .game-card .download-badge {
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 0px;
+    right: 0px;
     background-color: blue;
     color: white;
     padding: 2px 8px;
