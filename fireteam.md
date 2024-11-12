@@ -10,6 +10,8 @@ permalink: /fireteam/
     gap: 20px;
     margin: 20px;
   }
+
+    
   .game-description {
     flex: 2;
     padding-right: 20px;
@@ -23,6 +25,10 @@ permalink: /fireteam/
   .game-images img {
     width: 100%;
     border-radius: 5px;
+  }
+  .spacer{
+    height: 167px;
+    width: auto;
   }
 </style>
 
@@ -45,6 +51,7 @@ permalink: /fireteam/
 
   <!-- Game images -->
   <div class="game-images">
+    <div class="spacer"></div>
     <img src="/FireTeam Images/FireTeam Logo.png" alt="Fire Team Logo">
     <img src="/FireTeam Images/ladders and spray.gif" alt="A gif where the ladder increase and the hose is sprayed">
     <img src="/FireTeam Images/playing on playdate.jpeg" alt="An image of the game on a playdate">
