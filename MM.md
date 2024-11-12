@@ -24,15 +24,21 @@ permalink: /MM/
     width: 100%;
     border-radius: 5px;
   }
+  .embed-wrapper{
+    display: flex;
+    allign-items: center;
+    gap: 20px;
+    margin: 20px;
+  }
 </style>
-
-
+<div class="embed-wrapper">
+<p> <strong>Where to play:</strong> <br>
+  <iframe frameborder="0" src="https://itch.io/embed/2693733?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/mammas-milkeria">Mamma's Milkeria by Kungaroh | Henry</a></iframe> </p> 
+</div>
 
 <div class="game-page-container">
   <!-- Game description and experience -->
   <div class="game-description">
-    <h2>Mamma's Milkeria</h2>
-    <p> <strong>Where to play:</strong> <iframe frameborder="0" src="https://itch.io/embed/2693733?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/mammas-milkeria">Mamma's Milkeria by Kungaroh | Henry</a></iframe> </p> 
    <!-- <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank">On my GitHub</a> </p> -->
     <p><strong>About the Game:</strong><br>Create and grow your cow milking empire in this idle game, that keeps you active!
     <br>Mamma's Milkeria is an idle game, where you have to shake your controller up and down to milk your cow, to sell the milk to upgrade and by more cows! </p>
