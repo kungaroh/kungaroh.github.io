@@ -29,6 +29,8 @@ permalink: /fireteam/
   .embed-wrapper{
     display: flex;
     allign-items: center;
+    gap: 20px;
+    margin: 20px;
   }
   .spacer{
     height: auto;
