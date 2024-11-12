@@ -33,6 +33,7 @@ permalink: /fireteam/
   <div class="game-description">
     <h2>Fire Team</h2>
     <p> <strong>Where to play:</strong> 
+      <br>
       <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe>
       <!-- <br> <a href="https://kungaroh.itch.io/fire-team" target="_blank">On My Itch page</a> </p> -->
     <p><strong>About the Game:</strong><br> Fire Team is a game which is played on the Playdate Console using it's unique hardware (the crank) to pump up the water and unleash it on the ablaze building!</p>
