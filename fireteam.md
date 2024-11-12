@@ -37,12 +37,14 @@ permalink: /fireteam/
 </style>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVx7q3mQ2nA?si=wR-avY-xtCi0MwZL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="embed-wrapper">
+      <p> <strong>Where to play:</strong> <br>
+      <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe></p>       
+      </div>
 <div class="game-page-container">
   <!-- contain the embed -->
-      <div class="embed-wrapper">
-      <p> <strong>Where to play:</strong> <br></p> 
-      <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe>      
-      </div>
+      
   
   <!-- Game description and experience -->
   <div class="game-description">
