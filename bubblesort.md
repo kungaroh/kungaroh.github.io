@@ -47,10 +47,9 @@ permalink: /bubblesort/
   <div class="game-description">
     <h2>Bubble Sort Puzzle</h2>
     <p> <strong>Where to play:</strong> <br> Right Here! Alternatively:
-      <br> <iframe frameborder="0" src="https://itch.io/embed/2394303?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/bubble-sort-puzzle">Bubble Sort Puzzle by Kungaroh | Henry</a></iframe>
+      <br> <iframe frameborder="0" src="https://itch.io/embed/2394303?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/bubble-sort-puzzle">Bubble Sort Puzzle by Kungaroh | Henry</a></iframe> </p>
     <p> <strong>Find the source:</strong> <!-- <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank">On my GitHub</a> -->
-    <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank" class="github-button">View Source on GitHub</a>
-</p>
+    <br> <a href="https://github.com/kungaroh/BubbleSort" target="_blank" class="github-button">View Source on GitHub</a> </p>
     <p><strong>About the Game:</strong><br>Bubble Sort Puzzle is a simple puzzle game where you sort the bubbles into tubes so that each tube only contains a single colour bubble!</p>
     <h3>My Experience:</h3>
       <p>
