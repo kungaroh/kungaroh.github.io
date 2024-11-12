@@ -33,13 +33,12 @@ permalink: /stcbi/
   <div class="game-description">
     <h2>The Scratch That Can't be Itched</h2>
     <p> <strong>Where to play:</strong> <br> Unfortunately my team and I are still working on The Scratch That Can't be Itched (STCBI) and so it is unavailable to play! </p> 
-    
     <p><strong>About the Game:</strong><br>SCTBI is a comedy puzzle game where you play as Jim who is on a mission to prove his mother wrong and show that he isn't a failure and can make friends!</p>
     <h3>My Experience:</h3>
       <p>
       <br><strong>Why?</strong> 
       <br> We are creating STCBI as apart of the 11 week long "VFX and Game Production Studio" university unit, where we (Computer Games Development, Computer Games Design, Computing and VFX) are apart of a simulated games development studio with 9 games being created in parallel and I am leading the team creating this one! 
-      <br><strong>What did I learn?</strong>
+      <br><br><strong>What did I learn?</strong>
       <br> Whilst leading and creating STCBI I have learned to lead a team, <strong>Jira</strong> to assign work to teammates, <strong> prioritisation</strong> and to give weekly standups on the progress the team has made.
       <br> Throughout this project we have used Jira to manage our sprints, whilst learning spring review techniques such as "glad, sad, mad" and "the sailboat". These have assisted the team in identifying weakness both in ourselves, and the game and tasks being set each week.
       <br> I have learned a lot about the nuances of managing a team, such as ensuring communication and solving issues with team members who are not pulling their weight or turning up.
