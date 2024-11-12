@@ -27,7 +27,7 @@ permalink: /fireteam/
     border-radius: 5px;
   }
   .spacer{
-    height: 167px;
+    height: 200px;
     width: auto;
   }
 </style>
