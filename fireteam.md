@@ -27,7 +27,7 @@ permalink: /fireteam/
     border-radius: 5px;
   }
   .spacer{
-    height: 200px;
+    height: 165px;
     width: auto;
   }
 </style>
@@ -39,7 +39,7 @@ permalink: /fireteam/
   <div class="game-description">
     <p> <strong>Where to play:</strong> 
       <br>
-      <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe>
+      <iframe frameborder="0" src="https://itch.io/embed/2815691?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/fire-team">Fire Team by Kungaroh | Henry</a></iframe> <div class=spacer"></div>
       <!-- <br> <a href="https://kungaroh.itch.io/fire-team" target="_blank">On My Itch page</a> --></p>
     <p><strong>About the Game:</strong><br> Fire Team is a game which is played on the Playdate Console using it's unique hardware (the crank) to pump up the water and unleash it on the ablaze building!</p>
     <p><strong>My Experience:</strong><br> Throughout my time creating Fire Team, I learned the programming language Lua! This is a small and light language which is perfect to perform tasks with minimum power, which is ideal for the Playdate!
@@ -50,7 +50,6 @@ permalink: /fireteam/
 
   <!-- Game images -->
   <div class="game-images">
-    <div class="spacer"></div>
     <img src="/FireTeam Images/FireTeam Logo.png" alt="Fire Team Logo">
     <img src="/FireTeam Images/ladders and spray.gif" alt="A gif where the ladder increase and the hose is sprayed">
     <img src="/FireTeam Images/playing on playdate.jpeg" alt="An image of the game on a playdate">
