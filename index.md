@@ -65,6 +65,21 @@ Alternatively learn more about each game below!
     font-weight: bold;
     z-index: 1;
  }
+  .game-card .source-badge {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: purple;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    font-weight: bold;
+    z-index: 1;
+ }
+ .game-card .image-container {
+  position: relative;
+ }
    .game-card img {
     width: 100%;
     height: auto;
@@ -99,7 +114,10 @@ Alternatively learn more about each game below!
   <div class="game-card">
    <div class="playable-badge">Playable</div>
     <a href="/bubblesort">
+     <div class="image-container">
+      <div class="source-badge">Source</div>
       <img src="/portfolio icons/bubble sort icon.png" alt="Bubble Sort Thumbnail">
+     </div>
         <p><strong>Bubble Sort Puzzle</strong></p>
      <p>Sort the bubbles into the correct tube to win!</p>
     </a>
