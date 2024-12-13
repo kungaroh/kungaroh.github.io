@@ -27,6 +27,12 @@ permalink: /stcbi/
 </style>
 
 
+<div class="embed-wrapper">
+      <p> <strong>Where to play:</strong> <br>
+      <iframe frameborder="0" src="https://itch.io/embed/3173227?dark=true" width="552" height="167"><a href="https://kungaroh.itch.io/the-scratch-that-cant-be-itched">The Scratch That Can't Be Itched by Kungaroh | Henry, lozicon</a></iframe>    
+      </div>
+<div class="game-page-container">
+
 <div class="game-page-container">
   
   <!-- Game description and experience -->
