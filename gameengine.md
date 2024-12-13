@@ -24,6 +24,9 @@ permalink: /gameengine/
     width: 100%;
     border-radius: 5px;
   }
+  .github-button:hover {
+  background-color: #444;
+}
 </style>
 
 <div class="game-page-container">
@@ -31,8 +34,9 @@ permalink: /gameengine/
   <!-- Game description and experience -->
   <div class="game-description">
     <h2>Ionix Game Engine</h2>
-    <p> <strong>Where to use:</strong> <br> Due to Ionix Engine being in development, you currently cannot use it! </p> 
-    <p> <strong>Find the source:</strong> <br> Due to being a University Project containing the full cohort, I don't believe the source code will ever be available although this will be updated if it ever is!</p>
+    <p> <strong>Where to use:</strong> <br> Due to Ionix Engine being in development, you currently cannot use it. </p> 
+    <p> <strong>Find the source:</strong>
+    <br> Ionix Engine source will be available once the semester is over and I can fork the repo!<!--UPDATE ONCE FORKED <a href="https://github.com/kungaroh/BubbleSort" target="_blank" class="github-button">View Source on GitHub</a>--> </p>
     <p><strong>About the Engine:</strong><br>Ionix Engine is a lightweight C++ game engine, with a lua wrapper for simple 2D game development!</p>
     <h3>My Experience:</h3>
       <p>
