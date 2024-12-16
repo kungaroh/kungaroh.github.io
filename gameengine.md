@@ -5,7 +5,7 @@ permalink: /gameengine/
 ---
 
 <style>
-  .game-page-container {
+    .game-page-container {
     display: flex;
     gap: 20px;
     margin: 20px;
@@ -24,7 +24,18 @@ permalink: /gameengine/
     width: 100%;
     border-radius: 5px;
   }
-  .github-button:hover {
+  .github-button {
+  display: inline-block;
+  background-color: #333; /* GitHub color */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.github-button:hover {
   background-color: #444;
 }
 </style>
