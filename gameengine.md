@@ -47,20 +47,20 @@ permalink: /gameengine/
 <br>The class was split up into team , these were Architecture, Scripting, physics, Input, UI and Graphics/Audio</p>
 
 
-<br><br><strong>What Team was I on?</strong>
-<br> I started the project as a member of the architecture team, throughout this time, 
-<ul> <li>I assisted implementing the layer system</li> <li>creating a resource manager</li> <li>Taking ownership of the object system</li> </ul>
-<br>The layer system is fairly simple, each system had it's own layer, such as the <code>Object Layer</code>, this meant that the different systems could interact with eachother (running scripts that effect the physics on an object), without being coupled together, through the use of the observer pattern!
-<br>I assisted in creating the resource manager by being a paired programmer working with another team member, together we created the texture loading, and I handled the font loading alone.
-<br> <strong>Object System</strong>
-<br>I then moved onto creating the object system, this includes the scene, the objects inside the scene, and the components on the objects! I had to create a number of functions including <code>AddObject()</code>,  <code>RemoveObject()</code>,  <code>EnableObject()</code>,  <code>DisableObject()</code>, the same for all the components, and the start and update functions for them all.
-<br>
-<br> Once the MVP had been reached for the general engine, we moved to extending it to using an Editor, to save time on building our own editor we used Tiled. Tiled allowed us to export the scene data as a <code>.lua</code> file, which allowed us to easily import the data and bring it into C++ since we were already interacting between lua and C++.
-With the data imported, it was again my time to shine, to use the data and create objects and components so that the engine could run them!
-<br>
-<br><strong>What did I learn?</strong>
-<br>Throughout this process I learned a number of things including:
-<li><ul>Debugging</ul><ul>Using GitHub/source control as part of a large team</ul><ul>How to read/understand existing code and integrate it with new code</ul></li>
+  <p><br><br><strong>What Team was I on?</strong>
+  <br> I started the project as a member of the architecture team, throughout this time, 
+  <ul> <li>I assisted implementing the layer system</li> <li>creating a resource manager</li> <li>Taking ownership of the object system</li> </ul>
+  <br>The layer system is fairly simple, each system had it's own layer, such as the <code>Object Layer</code>, this meant that the different systems could interact with eachother (running scripts that effect the physics on an object), without being coupled together, through the use of the observer pattern!
+  <br>I assisted in creating the resource manager by being a paired programmer working with another team member, together we created the texture loading, and I handled the font loading alone.
+  <br> <strong>Object System</strong>
+  <br>I then moved onto creating the object system, this includes the scene, the objects inside the scene, and the components on the objects! I had to create a number of functions including <code>AddObject()</code>,  <code>RemoveObject()</code>,  <code>EnableObject()</code>,  <code>DisableObject()</code>, the same for all the components, and the start and update functions for them all.
+  <br>
+  <br> Once the MVP had been reached for the general engine, we moved to extending it to using an Editor, to save time on building our own editor we used Tiled. Tiled allowed us to export the scene data as a <code>.lua</code> file, which allowed us to easily import the data and bring it into C++ since we were already interacting between lua and C++.
+  With the data imported, it was again my time to shine, to use the data and create objects and components so that the engine could run them!
+  <br>
+  <br><strong>What did I learn?</strong>
+  <br>Throughout this process I learned a number of things including:
+  <li><ul>Debugging</ul><ul>Using GitHub/source control as part of a large team</ul><ul>How to read/understand existing code and integrate it with new code</ul></li></p>
   </div>
 
   <!-- Game images -->
