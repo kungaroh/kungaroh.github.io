@@ -37,7 +37,7 @@ permalink: /gameengine/
     <p> <strong>Where to use:</strong> <br> Due to Ionix Engine being in development, you currently cannot use it. </p> 
     <p> <strong>Find the source:</strong>
     <br> <a href="https://github.com/kungaroh/Ionix-Game-Engine" target="_blank" class="github-button">View Source on GitHub</a> </p>
-    <p><strong>Find the Engine API Reference: 
+    <p><strong>Find the Engine API Reference:</strong> 
       <br> <a href="https://kungaroh.github.io/Ionix-Game-Engine/" target="_blank" class="github-button">View API Reference</a>
     <p><strong>About the Engine:</strong><br>Ionix Engine is a lightweight C++ game engine, with a lua wrapper for simple 2D game development!</p>
     <h3>My Experience:</h3>
