@@ -3,9 +3,8 @@ layout: page
 title: Ionix Game Engine
 permalink: /gameengine/
 ---
-
 <style>
-    .game-page-container {
+  .game-page-container {
     display: flex;
     gap: 20px;
     margin: 20px;
@@ -40,6 +39,8 @@ permalink: /gameengine/
 }
 </style>
 
+
+
 <div class="game-page-container">
   
   <!-- Game description and experience -->
@@ -49,7 +50,7 @@ permalink: /gameengine/
     <p> <strong>Find the source:</strong>
     <br> <a href="https://github.com/kungaroh/Ionix-Game-Engine" target="_blank" class="github-button">View Source on GitHub</a> </p>
     <p><strong>Find the Engine API Reference:</strong> 
-    <br> <a href="https://kungaroh.github.io/Ionix-Game-Engine/" target="_blank" class="github-button">View API Reference</a>
+    <br> <a href="https://kungaroh.github.io/Ionix-Game-Engine/" target="_blank" class="github-button">View API Reference</a></p>
     <p><strong>About the Engine:</strong><br>Ionix Engine is a lightweight C++ game engine, with a lua wrapper for simple 2D game development!</p>
     <h3>My Experience:</h3>
     <br><p><strong>why?</strong></p>
@@ -81,7 +82,5 @@ permalink: /gameengine/
     <img src="/FireTeam Images/playing on playdate.jpeg" alt="An image of the game on a playdate">
     <img src="/FireTeam Images/medium building.png" alt="An image of a large building in the game on fire">
     <img src="/FireTeam Images/large building.png" alt="An image of a large building in the game on fire"> -->
-     
   </div>
 </div>
-
