@@ -62,8 +62,10 @@ permalink: /MM/
 
   <!-- Game images -->
   <div class="game-images">
-   <img src="/MM Images/MM Logo.png" alt="Mamma's Milkeria Logo">
+    <img src="/MM Images/MM Logo.png" alt="Mamma's Milkeria Logo">
+    <img src="MM Images/buying teats2.gif" alt="a gif of upgrading cow in Mammas Milkeria">
     <img src="/MM Images/friesian cow.png" alt="an image of mammas milkeria game">
+    <img src="/MM Images/Presitge.gif" alt="a gif of using prestige in Mammas Milkeria">
     <img src="/MM Images/vanilla cow.png" alt="an image of mammas milkeria game having unlocked the first prestige">
      
   </div>
