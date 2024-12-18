@@ -16,7 +16,6 @@ Learn more about me [here](/aboutme.md)
 
 
 # Projects/Portfolio
-## All my games
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 
 You can play every game I have made, on [my itch page](https://kungaroh.itch.io/){:target="blank"}.
