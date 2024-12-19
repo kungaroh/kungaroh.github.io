@@ -42,6 +42,8 @@ permalink: /stcbi/
     <p><strong>About the Game:</strong><br>SCTBI is a comedy puzzle game where you play as Jim who is on a mission to prove his mother wrong and show that he isn't a failure and can make friends!</p>
     <h3>My Experience:</h3>
       <p>
+        <br><strong>What I did</strong>
+        <br> Throughout this project I was the team lead. I had responsibilities such as demonstrating work completed in a weekly standup, assigning tasks at the start of each sprint, and reviewing the previous sprint's performance and how we all felt about it.<br> in addition to these responsibilities, I also did programming for the game, including creating quest scripts, creating a checkpoint system and debugging and refactoring broken scripts written by other members. Finally I also brought the game together, combining the different scenes that the different designers made, adding models to the characters, and adding the created animations to the characters in the engine.
       <br><strong>Why?</strong> 
       <br> We are creating STCBI as apart of the 11 week long "VFX and Game Production Studio" university unit, where we (Computer Games Development, Computer Games Design, Computing and VFX) are apart of a simulated games development studio with 9 games being created in parallel and I am leading the team creating this one! 
       <br><br><strong>What did I learn?</strong>
@@ -55,11 +57,8 @@ permalink: /stcbi/
   <!-- Game images -->
   <div class="game-images">
     <img src="/stcbi images/stcbi logo.png" alt="Scratch That Can't Be Itched Logo">
-    <!--
-    <img src="/FireTeam Images/ladders and spray.gif" alt="A gif where the ladder increase and the hose is sprayed">
-    <img src="/FireTeam Images/playing on playdate.jpeg" alt="An image of the game on a playdate">
-    <img src="/FireTeam Images/medium building.png" alt="An image of a large building in the game on fire">
-    <img src="/FireTeam Images/large building.png" alt="An image of a large building in the game on fire">
-     -->
+    <img src="/stcbi images/fighting ducks in castle.png" alt="fighting ducks in a castle">
+    <img src="/stcbi images/talking to mum.gif" alt="A gif of talking to mam">
+    <img src="/stcbi images/talking to Phrogius.png" alt="image of talking to phrogius">
   </div>
 </div>
