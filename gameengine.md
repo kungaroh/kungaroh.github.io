@@ -63,7 +63,7 @@ permalink: /gameengine/
   <!-- Game images -->
   <div class="game-images">
     <img src="/portfolio icons/ionix logo.png" alt="Ionix Engine Logo">
-    <<img src="/Ionix Images/launching game.gif" alt="A gif of launching a game from the Tiled Editor">
+    <img src="/Ionix Images/launching game.gif" alt="A gif of launching a game from the Tiled Editor">
     <img src="/Ionix Images/LayerObject code snippet.png" alt="A code snippet from the Object Layer">
     <img src="/Ionix Images/tiled editor.png" alt="An image of the tiled editor with a simple 2D game in it">
     <img src="/Ionix Images/Object class code snippet.png" alt="A code snippet from the Object class">
