@@ -24,6 +24,24 @@ permalink: /stcbi/
     width: 100%;
     border-radius: 5px;
   }
+  .lightbox {
+  display: none; /* Hidden by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 5px;
+}
 </style>
 
 
@@ -61,4 +79,26 @@ permalink: /stcbi/
     <img src="/stcbi images/talking to mum.gif" alt="A gif of talking to mam">
     <img src="/stcbi images/talking to Phrogius.png" alt="image of talking to phrogius">
   </div>
+
+  <div class="lightbox" id="lightbox">
+    <img src="" alt="Expanded image" id="lightbox-image">
+  </div>
+
+  <script>
+  const images = document.querySelectorAll('.game-images img');
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightbox-image');
+
+  images.forEach(img => {
+    img.addEventListener('click', () => {
+      const fullImage = img.getAttribute('data-full-image');
+      lightboxImage.src = fullImage;
+      lightbox.style.display = 'flex';
+    });
+  });
+
+  lightbox.addEventListener('click', () => {
+    lightbox.style.display = 'none';
+  });
+</script>
 </div>
