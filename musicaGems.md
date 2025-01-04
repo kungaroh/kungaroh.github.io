@@ -38,6 +38,23 @@ permalink: /musicagems/
 .github-button:hover {
   background-color: #444;
 }
+  .lightbox {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+}
 </style>
 
 
@@ -80,4 +97,29 @@ permalink: /musicagems/
     <img src="/FireTeam Images/large building.png" alt="An image of a large building in the game on fire">
      -->
   </div>
+
+    <div class="lightbox" id="lightbox">
+    <img src="" alt="Expanded image" id="lightbox-image">
+  </div>
+
+  <script>
+  const images = document.querySelectorAll('.game-images img');
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightbox-image');
+
+  images.forEach(img => {
+  img.addEventListener('click', () => {
+    const fullImage = img.getAttribute('src');
+    if (fullImage) {
+      lightboxImage.src = fullImage;
+      lightbox.style.display = 'flex';
+    }
+  });
+});
+
+lightbox.addEventListener('click', () => {
+  lightboxImage.src = ''; // Clear src when lightbox is closed
+  lightbox.style.display = 'none';
+});
+</script>
 </div>
