@@ -24,23 +24,22 @@ permalink: /stcbi/
     width: 100%;
     border-radius: 5px;
   }
-  .lightbox {
-  display: none; /* Hidden by default */
+.lightbox {
+  display: none;
+  justify-content: center;
+  align-items: center;
   position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: rgba(0, 0, 0, 0.8);
-  justify-content: center;
-  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
   z-index: 1000;
 }
 
 .lightbox img {
   max-width: 90%;
   max-height: 90%;
-  border-radius: 5px;
 }
 </style>
 
@@ -90,15 +89,18 @@ permalink: /stcbi/
   const lightboxImage = document.getElementById('lightbox-image');
 
   images.forEach(img => {
-    img.addEventListener('click', () => {
-      const fullImage = img.getAttribute('data-full-image');
+  img.addEventListener('click', () => {
+    const fullImage = img.getAttribute('data-full-image');
+    if (fullImage) {
       lightboxImage.src = fullImage;
       lightbox.style.display = 'flex';
-    });
+    }
   });
+});
 
-  lightbox.addEventListener('click', () => {
-    lightbox.style.display = 'none';
-  });
+lightbox.addEventListener('click', () => {
+  lightboxImage.src = ''; // Clear src when lightbox is closed
+  lightbox.style.display = 'none';
+});
 </script>
 </div>
