@@ -90,7 +90,7 @@ permalink: /stcbi/
 
   images.forEach(img => {
   img.addEventListener('click', () => {
-    const fullImage = img.getAttribute('data-full-image');
+    const fullImage = img.getAttribute('src');
     if (fullImage) {
       lightboxImage.src = fullImage;
       lightbox.style.display = 'flex';
