@@ -30,6 +30,23 @@ permalink: /MM/
     gap: 20px;
     margin: 20px;
   }
+  .lightbox {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+}
 </style>
 <div class="embed-wrapper">
 <p> <strong>Where to play:</strong> <br>
@@ -69,4 +86,28 @@ permalink: /MM/
     <img src="/MM Images/vanilla cow.png" alt="an image of mammas milkeria game having unlocked the first prestige">
      
   </div>
+    <div class="lightbox" id="lightbox">
+    <img src="" alt="Expanded image" id="lightbox-image">
+  </div>
+
+  <script>
+  const images = document.querySelectorAll('.game-images img');
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightbox-image');
+
+  images.forEach(img => {
+  img.addEventListener('click', () => {
+    const fullImage = img.getAttribute('src');
+    if (fullImage) {
+      lightboxImage.src = fullImage;
+      lightbox.style.display = 'flex';
+    }
+  });
+});
+
+lightbox.addEventListener('click', () => {
+  lightboxImage.src = ''; // Clear src when lightbox is closed
+  lightbox.style.display = 'none';
+});
+</script>
 </div>
