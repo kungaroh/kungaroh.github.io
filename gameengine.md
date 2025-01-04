@@ -37,6 +37,24 @@ permalink: /gameengine/
 .github-button:hover {
   background-color: #444;
 }
+
+  .lightbox {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+}
 </style>
 
 
@@ -68,4 +86,28 @@ permalink: /gameengine/
     <img src="/Ionix Images/tiled editor.png" alt="An image of the tiled editor with a simple 2D game in it">
     <img src="/Ionix Images/Object class code snippet.png" alt="A code snippet from the Object class">
   </div>
+    <div class="lightbox" id="lightbox">
+    <img src="" alt="Expanded image" id="lightbox-image">
+  </div>
+
+  <script>
+  const images = document.querySelectorAll('.game-images img');
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightbox-image');
+
+  images.forEach(img => {
+  img.addEventListener('click', () => {
+    const fullImage = img.getAttribute('src');
+    if (fullImage) {
+      lightboxImage.src = fullImage;
+      lightbox.style.display = 'flex';
+    }
+  });
+});
+
+lightbox.addEventListener('click', () => {
+  lightboxImage.src = ''; // Clear src when lightbox is closed
+  lightbox.style.display = 'none';
+});
+</script>
 </div>
