@@ -72,10 +72,15 @@ permalink: /gameengine/
     <br> <a href="https://kungaroh.github.io/Ionix-Game-Engine/" target="_blank" class="github-button">View API Reference</a></p>
     <p><strong>About the Engine:</strong><br>Ionix Engine is a lightweight C++ game engine, with a lua wrapper for simple 2D game development!</p>
     <h3>My Experience:</h3>
+    <br><p><strong>what I did</strong></p>
+    <br><p>Throughout this project I woked on the Architecture team! My duties included, implementing and managing the layer system, and assiting with implementing the Tiled editor<br>I took control over the Object layer to ensure functionality of the <strong>scene</strong>, <strong>objects</strong>, and <strong>omponents</strong>. I implemented the functions in these classes to ensure they can all interact with eachother and can be accessed and changed through the scripts, as well as being made when the engine first starts.</p>
     <br><p><strong>why?</strong></p>
     <br><p>Ionix Engine was created as part of the Game Engine unit at university. Ionix Engine is being developed to give the Computer Game Development cohort hands on experience with working in a large code base, with a large team. 
     This includes expanding on an existing framework, and implementing all the features you would want to have in a 2D game engine.
     <br>The class was split up into team , these were Architecture, Scripting, physics, Input, UI and Graphics/Audio</p>
+    <br><p><strong>How can it be expanded?</strong></p>
+    <br><p>The engine can be expanded and improved by improving the Tiled intergration, such as being able to run the engine directly from Tiled with a single button press! </p>
+    
     
   </div>
 
