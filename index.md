@@ -2,6 +2,7 @@
 layout: home
 title: "Henry Varley's Portfolio!"
 ---
+<head><script defer data-domain="kungaroh.github.io" src="https://plausible.io/js/script.js"></script></head>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
