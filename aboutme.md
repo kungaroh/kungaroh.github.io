@@ -26,8 +26,8 @@ As you can see from my game portfolio, I love making all types of games! From fi
 
 ## Game Developer Playdate
 
-Throughout this role, I collaborated with my managers to create a game idea for the Playdate Console. This involved pitching an idea, and then brainstorming game mechanic ideas to make a fun and intuitive game!
-Every week I would have a meeting with my managers to demonstrate progress on the game and to discuss the features and refinements that would be completed in the following week.
+Throughout this 6 week internship role, I collaborated with my managers to create a game idea for the Playdate Console. This involved pitching an idea, and then brainstorming game mechanic ideas to make a fun and intuitive game!
+Every week I would have a meeting with my managers to demonstrate progress on the game and to discuss the features and refinements that would be completed in the following week. The game I ended up creating was called <a href="fireteam">Fire Team</a>
 
 <hr>
 
@@ -64,7 +64,7 @@ I have primarily used Unity throughout my studies and for any game jams I have b
 
 I have used Unreal Engine in some personal projects which I have completed to gain familiarity with the engine.
 
-I have also created a game using the Playdate SDK, which doesn't have an engine! <!-- add fire team link -->
+I have also created a game using the Playdate SDK, which doesn't have an engine!
 
 <hr class="custom-divider">
 
@@ -85,12 +85,13 @@ During my second year of University, we completed a unit called Rapid Games Deve
 
 
 During this unit I won the following awards:
+<ul>
+<li>The Best Overall Game award, for <a href="/MM">Mamma's Milkeria!</a></li>
 
-The Best Overall Game award, for Mamma's Milkeria! <!-- link it -->
+<li>The Highly Commended award, for <a href="/musicagems">Musica Gems!</a></li>
+</ul>
 
-The Highly Commended award, for Musica Gems!  <!-- link it -->
-
-I have took part and submitted a game<!-- link bacteria busters--> for the Ludum Dare 56 game jam! This is a personal achievement as it is the first 72 hour/ non-degree related game jam I have submitted a game for.
+I have took part and submitted a <a href="https://kungaroh.itch.io/bacteria-busters">game for the Ludum Dare 56 game jam!</a> This is a personal achievement as it is the first 72 hour/ non-degree related game jam I have submitted a game for.
 
 
 
