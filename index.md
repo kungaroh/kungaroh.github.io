@@ -4,12 +4,6 @@ title: "Henry Varley's Portfolio!"
 ---
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
- <img alt="a gif with welcome in bold in the centre with the night sky and meteors flying behind it" src="https://media.tenor.com/2auJH5AE1fMAAAAd/welcome.gif">
-</picture>
-
     
 # About Me
 Hi there 👋 I'm Henry, and a game developer/programmer.
