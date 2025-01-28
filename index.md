@@ -9,14 +9,16 @@ title: "Henry Varley's Portfolio!"
 I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong passion for building robust and expandable systems such as games, engines and other software alike!
 <h2>Skills Overview:</h2>
 <div class="skills-grid">
-<div>Unity</div>
-<div>C#</div>
-<div>C++</div>
-<div>Unreal Engine</div>
-<div>Lua</div>
-<div>Project Management</div>
-<div>Jira</div>
-<div>Git</div>
+<ul>
+<li><div>Unity</div></li>
+<li><div>C#</div></li>
+<li><div>C++</div></li>
+<li><div>Unreal Engine</div></li>
+<li><div>Lua</div></li>
+<li><div>Project Management</div></li>
+<li><div>Jira</div></li>
+<li><div>Git</div></li>
+</ul>
 </div>
 
 <p>If you want to learn more about my experience <a href="/aboutme">Click Here</a>.</p>
