@@ -21,6 +21,11 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
 </ul>
 </div>
 
+<h2>Currently Working Towards:</h2>
+<ul>
+    <li>Improving my Unreal Engine knowledge</li>
+<li>Improving my C++ knowledge</li>
+</ul>
 <p>If you want to learn more about my experience <a href="/aboutme">Click Here</a>.</p>
 
 
