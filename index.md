@@ -6,93 +6,104 @@ title: "Henry Varley's Portfolio!"
 
     
 # About Me
-Hi there 👋 I'm Henry, and a game developer/programmer.
-Learn more about me [here](/aboutme.md)
+I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong passion for building robust and expandable systems such as games, engines and other software alike!
+<h2>Skills Overview:</h2>
+<div class="skills-grid">
+<div>Unity</div>
+<div>C#</div>
+<div>C++</div>
+<div>Unreal Engine</div>
+<div>Lua</div>
+<div>Project Management</div>
+<div>Jira</div>
+<div>Git</div>
+</div>
+
+<p>If you want to learn more about my experience <a href="/aboutme">Click Here</a>.</p>
 
 
 # Projects/Portfolio
 <img alt="An image with all the Logos from my game portfolio" src="/gameCollection.png">
 
-You can play every game I have made, on [my itch page](https://kungaroh.itch.io/){:target="blank"}.
-
-Alternatively learn more about each game below!
-
-<!-- ------------------- All my Games Ends ------------------- -->
-
 <style>
-  .portfolio-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
+    .skills-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        margin: 10px 0;
+    .portfolio-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 20px;
   }
-  .game-card {
-    position: relative;
-    background-color: #f3f3f3;
-    padding: 10px;
-    text-align: center;
-    border-radius: 8px;
-    transition: transform 0.2s;
-    border: 2px solid white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    .game-card {
+        position: relative;
+        background-color: #f3f3f3;
+        padding: 10px;
+        text-align: center;
+        border-radius: 8px;
+        transition: transform 0.2s;
+        border: 2px solid white;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
   }
-  .game-card .playable-badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background-color: green;
-    color: white;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8em;
-    font-weight: bold;
-    z-index: 1;
+    .game-card .playable-badge {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: green;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.8em;
+        font-weight: bold;
+        z-index: 1;
   }
- .game-card .download-badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background-color: blue;
-    color: white;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8em;
-    font-weight: bold;
-    z-index: 1;
+    .game-card .download-badge {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: blue;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.8em;
+        font-weight: bold;
+        z-index: 1;
  }
-  .game-card .source-badge {
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-    background-color: purple;
-    color: white;
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-size: 0.8em;
-    font-weight: bold;
-    z-index: 1;
+    .game-card .source-badge {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        background-color: purple;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 0.8em;
+        font-weight: bold;
+        z-index: 1;
  }
- .game-card .image-container {
-  position: relative;
+    .game-card .image-container {
+      position: relative;
  }
-   .game-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
+    .game-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
   }
-  .game-card p {
-     font-size: 0.9em; /* Smaller font for description */
-     color: #555;
-     margin: 8px 0 0; /* Adjusts spacing */
+    .game-card p {
+        font-size: 0.9em; 
+        color: #555;
+        margin: 8px 0 0;
    }
-   .game-card a {
-     color: inherit; /* Inherits color from parent, making it the same as normal text */
-     text-decoration: none; /* Removes the underline */
+    .game-card a {
+         color: inherit;
+         text-decoration: none;
    }
-   .game-card a:hover {
-     color: #555; /* Optional: Different color on hover */
+    .game-card a:hover {
+         color: #555; /* Optional: Different color on hover */
    }
-  .game-card:hover {
-    transform: scale(1.05);
+    .game-card:hover {
+        transform: scale(1.05);
   }
 </style>
 
