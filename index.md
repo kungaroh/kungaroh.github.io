@@ -33,6 +33,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         grid-template-columns: 1fr 1fr;
         gap: 10px;
         margin: 10px 0;
+    }
     .portfolio-grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
