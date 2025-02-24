@@ -175,4 +175,14 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
       <p>A 2D game engine integrated with Tiled to create small and fun games!</p>
      </a>
    </div>
+    <div class="game-card">
+     <a href="/ProcGenTool">
+      <div class="image-container">
+       <!--<div class="source-badge">Source</div>-->
+       <img src="/portfolio icons/Traffic Cone.png" alt="An image of a traffic cone">
+      </div>
+       <p><strong>Procedural Generation Tool</strong></p>
+      <p>A procedural generation tool which I am developing as part of my Synoptic Project(dissertation)</p>
+     </a>
+   </div>
 </div>
