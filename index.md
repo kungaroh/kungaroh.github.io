@@ -136,9 +136,9 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
     </a>
   </div>
   <div class="game-card">
-   <div class="download-badge">Download</div>
      <a href="/MM">
-        <div class="image-contaier">
+         <div class="download-badge">Download</div>
+        <div class="image-container">
          <div class="source-badge">Source</div>
          <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
         </div>
