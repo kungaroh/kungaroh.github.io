@@ -138,7 +138,9 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
   <div class="game-card">
    <div class="download-badge">Download</div>
      <a href="/MM">
-       <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
+        <div class="image-contaier">
+         <div class="source-badge">Source</div>
+         <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
        <p><strong>Mamma's Milkeria</strong></p>
       <p>Create and grow your milk empire!</p>
      </a>
@@ -159,7 +161,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
       <div class="download-badge">Download</div>
        <img src="/portfolio icons/stcbi logo.png" alt="The Scratch That Can't Be Itched Thumbnail">
        <p><strong>The Scratch That Can't Be Itched</strong></p>
-      <p>This game is currently in developement!</p>
+      <p>The Scratch That Can’t Be Itched is an irreverent comedy game filled with absurd characters!</p>
      </a>
    </div>
  <div class="game-card">
@@ -169,7 +171,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
        <img src="/portfolio icons/ionix logo.png" alt="Ionix Game Engine Placeholder Thumbnail">
       </div>
        <p><strong>Ionix Game Engine</strong></p>
-      <p>A currently in developement game engine</p>
+      <p>A 2D game engine integrated with Tiled to create small and fun games!</p>
      </a>
    </div>
 </div>
