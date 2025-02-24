@@ -141,6 +141,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         <div class="image-contaier">
          <div class="source-badge">Source</div>
          <img src="/portfolio icons/mammas milkeria icon.png" alt="Mammas milkeria Thumbnail">
+        </div>
        <p><strong>Mamma's Milkeria</strong></p>
       <p>Create and grow your milk empire!</p>
      </a>
