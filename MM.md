@@ -51,6 +51,7 @@ permalink: /MM/
 <div class="embed-wrapper">
 <p> <strong>Where to play:</strong> <br>
   <iframe frameborder="0" src="https://itch.io/embed/2693733?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/mammas-milkeria">Mamma's Milkeria by Kungaroh | Henry</a></iframe> </p> 
+  <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/Mammas-Milkeria" target="_blank" class="github-button">View Source on GitHub</a>
 </div>
 
 <div class="game-page-container">
