@@ -87,7 +87,7 @@ permalink: /gameengine/
     <ul>
     <li><p> View the object layer source code </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/LayerSystem/Layers/LayerObject.cpp" target="_blank" class="github-button">View Object Layer Source Code</a> </li>
     <li><p> This is the source code for the scene.cpp class </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/Objects/Scene.cpp" target="_blank" class="github-button">View Scene Class Code</a> </li>
-    <li><p This is the source code for the object.cpp class </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/Objects/Object.cpp" target="_blank" class="github-button">View Object Class Source Code</a> </li>
+    <li><p> This is the source code for the object.cpp class </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/Objects/Object.cpp" target="_blank" class="github-button">View Object Class Source Code</a> </li>
     </ul>
     
   </div>
