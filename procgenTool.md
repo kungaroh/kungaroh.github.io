@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ionix Game Engine
-permalink: /gameengine/
+title: Procedural Generation Tool
+permalink: /procgenTool/
 ---
 <style>
   .game-page-container {
