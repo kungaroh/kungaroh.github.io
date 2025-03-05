@@ -70,8 +70,6 @@ permalink: /procgenTool/
     <p> <strong>Where to use:</strong> <br> This tool is currently in development so cannot be used! </p> 
     <p> <strong>Find the source:</strong>
     <br> Due to this being for my synoptic project, the GitHub repo is private to prevent accusations of collusion or plagiarism <!--<a href="https://github.com/kungaroh/Ionix-Game-Engine" target="_blank" class="github-button">View Source on GitHub</a>--> </p>
-    <p><strong>Find the Engine API Reference:</strong> 
-    
     <p><strong>About the Tool:</strong><br>This tool is going to be made for Unity, and allow you to generate a 3D terrain! The tool will use the Marching Cubes algorithm. The tool will be able run on both the CPU and the GPU (although not simultaneously). </p>
     <!--
     <h3>My Experience:</h3>
