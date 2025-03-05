@@ -85,7 +85,7 @@ permalink: /procgenTool/
     
   </div>
 
-  <!-- Game images -->
+  <!-- Game images
   <div class="game-images">
     <img src="/portfolio icons/ionix logo.png" alt="Ionix Engine Logo">
     <img src="/Ionix Images/launching game.gif" alt="A gif of launching a game from the Tiled Editor">
