@@ -72,15 +72,23 @@ permalink: /gameengine/
     <br> <a href="https://kungaroh.github.io/Ionix-Game-Engine/" target="_blank" class="github-button">View API Reference</a></p>
     <p><strong>About the Engine:</strong><br>Ionix Engine is a lightweight C++ game engine, with a lua wrapper for simple 2D game development!</p>
     <h3>My Experience:</h3>
-    <br><p><strong>what I did</strong></p>
-    <br><p>Throughout this project I woked on the Architecture team! My duties included, implementing and managing the layer system, and assiting with implementing the Tiled editor<br>I took control over the Object layer to ensure functionality of the <strong>scene</strong>, <strong>objects</strong>, and <strong>omponents</strong>. I implemented the functions in these classes to ensure they can all interact with eachother and can be accessed and changed through the scripts, as well as being made when the engine first starts.</p>
+    <br><p><strong>What I Did:</strong></p>
+    <br><p>Throughout this project I woked on the Architecture team! My duties included, implementing and managing the layer system, and assiting with implementing the Tiled editor
+      <br>
+      <br>I took control over the Object layer to ensure functionality of the <strong>scene</strong>, <strong>objects</strong>, and <strong>components</strong>. I implemented the functions in these classes to ensure they can interact such as, being able to access the scene from a script, or being able to access the transform component of a gameobject from a script.
     <br><p><strong>why?</strong></p>
     <br><p>Ionix Engine was created as part of the Game Engine unit at university. Ionix Engine is being developed to give the Computer Game Development cohort hands on experience with working in a large code base, with a large team. 
     This includes expanding on an existing framework, and implementing all the features you would want to have in a 2D game engine.
     <br>The class was split up into team , these were Architecture, Scripting, physics, Input, UI and Graphics/Audio</p>
     <br><p><strong>How can it be expanded?</strong></p>
-    <br><p>The engine can be expanded and improved by improving the Tiled intergration, such as being able to run the engine directly from Tiled with a single button press! </p>
-    
+    <br><p>The engine can be expanded and improved by improving the Tiled intergration, such as being able to run the engine directly from Tiled with a single button press! The engine could also be improved by adding the ability to have multiple scenes (most of the functionality is there) </p>
+
+    <h3>Quick Links </h3>
+    <ul>
+    <li><p> View the object layer source code </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/LayerSystem/Layers/LayerObject.cpp" target="_blank" class="github-button">View Object Layer Source Code</a> </li>
+    <li><p> This is the source code for the scene.cpp class </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/Objects/Scene.cpp" target="_blank" class="github-button">View Scene Class Code</a> </li>
+    <li><p This is the source code for the object.cpp class </p><a href="https://github.com/kungaroh/Ionix-Game-Engine/blob/main/Engine/src/Objects/Object.cpp" target="_blank" class="github-button">View Object Class Source Code</a> </li>
+    </ul>
     
   </div>
 
