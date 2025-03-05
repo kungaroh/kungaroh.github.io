@@ -176,7 +176,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
      </a>
    </div>
     <div class="game-card">
-     <a href="/ProcGenTool">
+     <a href="/procgenTool">
       <div class="image-container">
        <!--<div class="source-badge">Source</div>-->
        <img src="/portfolio icons/Traffic Cone.png" alt="An image of a traffic cone">
