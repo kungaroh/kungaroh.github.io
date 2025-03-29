@@ -24,6 +24,20 @@ permalink: /MM/
     width: 100%;
     border-radius: 5px;
   }
+  .github-button {
+  display: inline-block;
+  background-color: #333; /* GitHub color */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.github-button:hover {
+  background-color: #444;
+}
   .embed-wrapper{
     display: flex;
     allign-items: center;
@@ -51,7 +65,7 @@ permalink: /MM/
 
 <div class="embed-wrapper">
 <p> <strong>Where to play:</strong> <br>
-  <iframe frameborder="0" src="https://itch.io/embed/2693733?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/mammas-milkeria">Mamma's Milkeria by Kungaroh | Henry</a></iframe> </p> 
+  <iframe frameborder="0" src="https://itch.io/embed/2693733?border_width=2&amp;dark=true" width="554" height="169"><a href="https://kungaroh.itch.io/mammas-milkeria">Mamma's Milkeria by Kungaroh | Henry</a></iframe> <br></p> 
   <p> <strong>Find the source:</strong> <br> <a href="https://github.com/kungaroh/Mammas-Milkeria" target="_blank" class="github-button">View Source on GitHub</a></p>
 </div>
 
