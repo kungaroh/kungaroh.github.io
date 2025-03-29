@@ -10,14 +10,14 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
 <h2>Skills Overview:</h2>
 <div class="skills-grid">
 <ul>
-<li><div>Unity</div></li>
+<li><div>Jira</div></li>
+<li><div>Git</div></li>
 <li><div>C#</div></li>
 <li><div>C++</div></li>
+<li><div>Unity</div></li>
 <li><div>Unreal Engine</div></li>
 <li><div>Lua</div></li>
 <li><div>Project Management</div></li>
-<li><div>Jira</div></li>
-<li><div>Git</div></li>
 </ul>
 </div>
 
