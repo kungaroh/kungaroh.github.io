@@ -44,7 +44,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 20px;
         overflow: hidden;
-        z-index: -5;
+        z-index: 10;
   }
     .game-card {
         position: relative;
@@ -66,7 +66,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         border-radius: 4px;
         font-size: 0.8em;
         font-weight: bold;
-        z-index: -4;
+        z-index: 11;
   }
     .game-card .download-badge {
         position: absolute;
@@ -78,7 +78,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         border-radius: 4px;
         font-size: 0.8em;
         font-weight: bold;
-        z-index: -4;
+        z-index: 11;
  }
     .game-card .source-badge {
         position: absolute;
@@ -90,7 +90,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         border-radius: 4px;
         font-size: 0.8em;
         font-weight: bold;
-        z-index: -4;
+        z-index: 11;
  }
     .game-card .image-container {
       position: relative;
