@@ -53,6 +53,7 @@ I'm Henry Varley and I am an aspiring Game/Engine Programmer! I have a strong pa
         transition: transform 0.2s;
         border: 2px solid white;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+        z-index: 0;
   }
     .game-card .playable-badge {
         position: absolute;
