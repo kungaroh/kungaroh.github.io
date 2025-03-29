@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mamma's Milkeria
-permalink: /MM/
+permalink: /mammasMilkeria/
 ---
 
 <style>
